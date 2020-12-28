@@ -9,7 +9,7 @@ excerpt: A successful side project that has grown organically after I built it f
 ![](/images/photostream2.png)
 
 
-Checkout this project at <a href="wwww.photostream.live">PhotoStream.Live</a>
+Checkout this project at <a href="wwww.photostream.live">PhotoStream.Live</a>. Below I've outlined why and how I built this project.
 
 
 ## First Update (22/12/2020)

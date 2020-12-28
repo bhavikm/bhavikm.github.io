@@ -9,7 +9,7 @@ excerpt: A website I built that aggregates and analyses Covid-19 tweets from ove
 ![](/images/covid-expert-tweets.jpg)
 
 
-Checkout this project at <a href="wwww.covidexperttweets.com">CovidExpertTweets.com</a>
+Checkout this project at <a href="wwww.covidexperttweets.com">CovidExpertTweets.com</a>. Below I've outlined why and how I built this project.
 
 
 ## First Update (22/12/2020)
