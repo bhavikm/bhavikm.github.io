@@ -6,13 +6,16 @@ featured_image: '/images/photostream2.png'
 excerpt: A successful side project that has grown organically after I built it for my own wedding in 2016. The product allows events to run a live stream from audience photos and videos. Customers from around the world have used the product for their events. This has been a great project to learn and apply skills in design, web development, marketing, sales and product management.
 ---
 
-![PhotoStream.Live](/images/photostream2.png)
+![](/images/photostream2.png)
 
 
 Checkout this project at <a href="wwww.photostream.live">PhotoStream.Live</a>
 
 
-### How it started
+## First Update (22/12/2020)
+
+
+### Solving my own problem
 
 
 The initial idea for this project occurred when my wife and I were planning our reception wedding dinner in 2016. We were over budget and needed to cut down on one of our big expenses. The choice was between our food and drink package  or photography during our reception dinner. That's when the idea struck me, why not just crowd-source our photos from all our event guests! We would still keep professional photography for our ceremony and bridal shoot, but during dinner we can just ask our guests to snap more pics on their smartphones. To help incentivise photo sharing I would run a live stream on a central projector so that everyone could see their shared photos in real time. 
@@ -21,8 +24,7 @@ The initial idea for this project occurred when my wife and I were planning our 
 I built a very hacky version of this idea using third party APIs to monitor a hashtag on Twitter and Instagram and a dedicated inbox for emailed photos. The live stream page used long polling to monitor a queue of processed photos on the backend, with everything running off my laptop for the event. There were a lot of bugs (I have the fond memory of ducking out of my own wedding dinner to reset some queues on my laptop) but the overall idea worked well. We got some really cool photos that we probably wouldn't have collected without the incentive of the live stream. 
 
 
-### Validation
-
+### Organic Validation
 
 
 After my wedding I noted down some improvements but didn't really find the time to work on the idea. Then a year later a friend from my wedding asked to run it for his wedding. I spent a few days implementing the improvements I had noted down. At this event everything worked smoothly and the idea really took off, people were posting tons of selfies, photos and memes. There was even a few times I had to turn off the projector because it was proving to be a distraction during important parts of the night! 
@@ -33,7 +35,7 @@ After this, some people who saw the live stream at my friends wedding asked to r
 After running the product for a number of events without any marketing or pushing and seeing the high level engagement the idea definitely felt reasonably 'validated' to invest more time in. 
 
 
-### Building a concrete MVP
+### Building a MVP
 
 
 After leaving my full time job at the end of 2019 I took some time to build out the idea properly. I now had a really good list of requirements from the events that had used the product so I didn't have to worry about the usual problem in early product development of building too many features or building features that no one wanted.
@@ -42,7 +44,7 @@ After leaving my full time job at the end of 2019 I took some time to build out 
 Given I had been using Python for my full time job I choose Django for the web development (with vanilla javascript mixed in where I needed it as well). I also used the excellent <a href="https://www.saaspegasus.com/">SaaS Pegasus</a> Django starter template to help cut down on dev time. For the live stream component that processes posts from users I chose a serverless solution (AWS Lambda) due to the event-driven nature of the problem. The alternative would have been using some type of long polling architecture that would be harder to scale. Serverless also seemed more efficient as events only run for small periods time and require short bursts of compute when a user posts a photo. The <a href="https://www.serverless.com/">serverlress framework</a> was critical in overcoming some of the challenges in working with AWS Lambda. I might document my experience implementing on Lambda in a seperate post.
 
 
-### Launching
+### Launching into the pandemic
 
 
 After finishing development in March 2020 the pandemic had just started to become a reality which meant most live events were cancelled or delayed. Pretty bad timing! Once again I moved the project to the side with the intention to return as the pandemic started easing.
@@ -74,7 +76,7 @@ The other surprising benefit that has come out of the pandemic are customers usi
 ### Growth
 
 
-I can now see a clear positioning and path to consistent growth. There are people who are definitely searching for ways to increase engagement at their events and I have an easy to use solution for this. The next step is to build out reliable channels of acquisition with the current best positioning.
+I can now see a clear positioning and path to consistent growth. Of course it's going to interesting to reflect back on this confidence in the future. There are people who are definitely searching for ways to increase engagement at their events and I have an easy to use solution that users really enjoy. The next step is to build out reliable channels of acquisition with this current 'best positioning' in mind.
 
 
 
