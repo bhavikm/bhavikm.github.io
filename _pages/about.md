@@ -5,21 +5,12 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 
-## Features
+Hey there, I'm a Data Scientist and Developer based in Melbourne, Australia. I'm currently looking for my next opportunity in Data Science, either a full-time or contract role. Please <a href="/contact">get in touch</a> if you would like to work with me.
 
-Simples is packed with powerful features to showcase your content:
 
-* Beautiful, minimal design
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+My previous roles:
+
+* Jan 2020 to Current - Freelance Data Scientist 
+* Mar 2017 to Nov 2019 - Data Scientist at Monash University
+* Jan 2015 to Mar 2017 - Software Engineer at Thales (Air Traffic Control Systems)
+* Jan 2014 to Jul 2014 - Research Machine Learning Engineer at Monash University Faculty of I.T.
