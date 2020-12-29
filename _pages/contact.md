@@ -1,7 +1,7 @@
 ---
 title: Contact
-subtitle: Get in touch
-description: Get in touch
+subtitle:
+description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
