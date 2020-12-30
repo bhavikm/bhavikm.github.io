@@ -7,7 +7,7 @@ featured_image: /images/social.jpg
 
 Hey there, I'm a data scientist based in Melbourne, Australia. 
 
-I've been working in data science, machine learning and software since 2012. I'm interested in all aspects of data science and machine learning. In the last 3 years I have developed extensive experience and interest in Natural Language Processing, especially with the application of Transformer models. My background in software engineering provides an invaluable asset in working as a data scientist. I'm constantly learning and building to push my skills and expand my knowledge. 
+I've been working in data science, machine learning and software since 2012. In the last 3 years I have developed extensive experience and interest in Natural Language Processing, especially with the application of Transformer models. My background in software engineering provides an invaluable asset in working as a data scientist. I'm constantly learning and building to push my skills and expand my knowledge. 
 
 Currently available for new work in data science or machine learning engineering (particularly with a focus on NLP). Please <a href="/contact">get in touch</a> if you would like to work together.
 
