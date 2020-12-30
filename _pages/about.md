@@ -8,7 +8,7 @@ featured_image: /images/social.jpg
 Hey there, I'm a data scientist and developer based in Melbourne, Australia. I'm currently looking for my next opportunity in data science or machine learning engineering. Please <a href="/contact">get in touch</a> if you would like to work with me.
 
 #### Previous roles
-* Jan 2020 to Current - Freelance data science and working on some <a href="/projects">projects</a>
+* Jan 2020 to Current - Freelance Data Scienctist. Also working on some side <a href="/projects">projects</a>
 * Mar 2017 to Nov 2019 - Data Scientist at Monash University
 * Jan 2015 to Mar 2017 - Software Engineer at Thales (Air Traffic Control Systems)
 * Jan 2014 to Jul 2014 - Research Machine Learning Engineer at Monash University Faculty of I.T.
