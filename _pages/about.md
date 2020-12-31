@@ -19,15 +19,14 @@ Read a detailed version of my work history on <a href="https://www.linkedin.com/
 * Building <a href="/project/photostream-live">PhotoStream.Live</a> and <a href="/project/covid-expert-tweets">Covid Expert Tweets</a>
 
 #### Mar 2017 to Nov 2019 - Data Scientist at Monash University
-* Exploration, analysis, reporting, modelling (focused on regression modelling and NLP machine learning)
-of various datasets related to Monash University infrastructure operations
-* Research and development of NLP machine learning algorithms resulting in an industry first analytics
+* Exploration, analysis, reporting, modelling of various datasets related to Monash University infrastructure operations
+* Training and production deployment of NLP machine learning algorithms resulting in an industry first analytics
 capability
 * Regression modelling of building operation costs and utilisation to inform management decision making
 * Reduction of critical IoT sensor failures through statistical analysis
 
 #### Jan 2015 to Mar 2017 - Software Engineer at Thales (Air Traffic Control Systems)
-* Working with the radar data processing software component team doing development, fixing bugs, testing, writing docs, contributing to technical discussions
+* Working with the radar data processing software component team doing development, bug fixes, testing, writing docs, contributing to technical discussions
 * Required a strong understanding of mathematical algorithms (Kalman filters) that were at the core of the software system
 
 #### Jan 2014 to Jul 2014 - Research Machine Learning Engineer at Monash University Faculty of I.T.
